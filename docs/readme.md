@@ -1,1 +1,1 @@
- https://sabouaram.github.io/repository/
+ https://sabouaram.github.io/repository/idea
